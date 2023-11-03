@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\chengjianwei\Desktop\小项目\C语言\位数判断\位数判断\源.cpp(5,16): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\chengjianwei\Desktop\小项目\C语言\位数判断\位数判断\源.cpp(5,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  位数判断.vcxproj -> C:\Users\chengjianwei\Desktop\小项目\C语言\位数判断\x64\Debug\位数判断.exe
